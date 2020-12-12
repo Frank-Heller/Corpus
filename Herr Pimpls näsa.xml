@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "tei_lite.dtd">
+<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/Frank-Heller/Corpus/xsl/tei2html.xsl" ?>
 <TEI>
   <teiHeader>
     <fileDesc>
