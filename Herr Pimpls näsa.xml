@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "tei_lite.dtd">
-<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/Frank-Heller/Corpus/xsl/tei2html.xsl" ?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -15,6 +14,7 @@
 
       <publicationStmt>
         <p>Public Domain</p>
+        <idno>533</idno>
       </publicationStmt>
 
       <sourceDesc>
@@ -44,7 +44,7 @@
 
       <p>Zell ligger vid en alpsjö. Denna sjö är buteljgrön; den har
       tvärbranta stränder; den innehåller miljoner och åter miljoner spigg och
-      ett antal gäddor, som tilldelat sig själva samm uppgift gentemot dessa
+      ett antal gäddor, som tilldelat sig själva samma uppgift gentemot dessa
       spigg, som fransmännen gentemot tyskarna: att se till att de inte blir
       för många. Den buteljgröna sjön plöjes av en kommunalmotorbåt, av
       dussintals roddbåtar och hundratals tyroler, som med sina jättekraftiga
@@ -182,7 +182,7 @@
       omarbetat av hans hand till en sammansmältning av alla moderna
       konstriktningar — men hans eget? I dess mitt lyfte sig fortfarande det
       som en gång varit herr Pimpls stolthet och väckt herr Hentschs raseri,
-      näsan. Men den var inte längre romansk Den var sådan som Johannes
+      näsan. Men den var inte längre romansk. Den var sådan som Johannes
       Hentsch önskat se den: den var kubistisk. Den stod ut från ansiktet i
       minst tre olika riktningar och hade utsprång och utbyggnader som en
       Jugendvilla.</p>

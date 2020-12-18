@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "tei_lite.dtd">
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ode till krögaren Knaust i Sundsvall</title>
+        <author>Frank Heller</author>
+      </titleStmt>
+
+      <editionStmt>
+         <edition><date>2020-12-13</date></edition>
+      </editionStmt>
+
+      <publicationStmt>
+       <p>Public Domain</p>
+        <idno>46g</idno>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Ballader til bröderna</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+<lg>
+<l>Ett rykte säger mig, att ni, herr Knaust,</l>
+<l>har glädjen av att se ett verkligt kundsvall</l>
+<l>slå in på er förnäma krog i Sundsvall</l>
+<l>till tonerna bland annat av Es braust.</l>
+</lg>
+<lg>
+<l>Helstekta svins och oxars holokaust</l>
+<l>där hälsar gästen, icke bistert hundskall.</l>
+<l>Ur faten frustar vin i nobelt sprundsvall.</l>
+<l>När därför, njutningslysten såsom Faust</l>
+</lg>
+
+<lg>
+<l>och full av törst som musketören Atos,</l>
+<l>vägledd av viners doft och läckert matos,</l>
+<l>jag i en framtid gästar eder stad,</l>
+</lg>
+
+<lg>
+<l>så skall jag fylld av högsta diktarpatos</l>
+<l>uti en fjortonstrofig praktballad</l>
+<l>prisa ert namn för hela Medelpad.</l>
+</lg>
+
+    </body>
+  </text>
+</TEI>
