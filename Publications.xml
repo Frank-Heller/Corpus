@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+This file was generated 12/21/2020 14:18:19 by a script.
+Do not change this file.
+ -->
+<publications>
+  <publication>
+    <title>Den hemlighetsfulla ön</title>
+    <idno>548</idno>
+    <filename>Den hemlighetsfulla ön.xml</filename>
+  </publication>
+  <publication>
+    <title>Herr Pimpls näsa</title>
+    <idno>533</idno>
+    <filename>Herr Pimpls näsa.xml</filename>
+  </publication>
+  <publication>
+    <title>Längtan till ett fikonträd</title>
+    <idno>589</idno>
+    <filename>Längtan till ett fikonträd.xml</filename>
+  </publication>
+  <publication>
+    <title>Ode till krögaren Knaust i Sundsvall</title>
+    <idno>46g</idno>
+    <filename>Ode till krogaren Knaust i Sundsvall.xml</filename>
+  </publication>
+</publications>
