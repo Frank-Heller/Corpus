@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "tei_lite.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
     <fileDesc>
@@ -12,7 +13,7 @@
       </editionStmt>
 
       <publicationStmt>
-      <p>Public Domain</p>
+      	<authority>Public Domain</authority>
         <idno>86</idno>
       </publicationStmt>
 
@@ -35,7 +36,7 @@
 			<p>De uppgifter som finnas i denna bok härstamma alla från källor som jag har anledning att tro fullt pålitliga. Att jag inte namnger dem just nu, torde man kanske förstå.</p>
 			<p>&#160;</p>
 			<p>F.H.</p>
-			<p class="Basic-Paragraph para-style-override-1"><span>&#160;</span></p>
+			<p>&#160;</p>
 			<p>&#160;</p>
 			<lg>
 			<l><emph>For heathen heart that puts her trust </emph></l>
@@ -55,7 +56,7 @@
 			<l>förlåt ditt folk, o Herre Gud!</l>
 			</lg>
 			<p>&#160;</p>
-			<p class="KapitelRubrik para-style-override-1"><span>&#160;</span></p>
+			<p>&#160;</p>
 			</div>
 			<div n="1" type="chapter">
 			<head>1</head>
@@ -187,7 +188,7 @@
 			<p>Som det var i partiet, var det i armen. Nästan hela härens officerskår – kanske i något mindre grad marinens – var antitysk. Man får inte glömma, att officerskårer i regel rekryteras ur bättre situerade familjer. I Italien finnas dessa framför allt i norra delarna av landet, där lantbruket är rikt, silkesodlingarna givande och fabrikerna många. Och visserligen rider tiden fort i våra dagar, men det är i alla fall bara åttio år sedan folket i dessa nejder stred och blödde för att jaga den hatade österrikaren ur landet. Det vårdar ännu troget minnena av det habsburgska småförtrycket med spionage och fängelsestraff, det har absolut inte glömt striderna 1859 och 1866 – för att inte tala om kampen 1915–18. I dessa landsdelar är germanofilien en sparsamt blommande planta, möjligen med undantag för vissa kretsar av intelligentsian.</p>
 			<p>I spetsen för denna antityska officerskår satt som generalstabschef en man vid namn Pietro Badoglio, Abessiniens erövrare, vilken vid ett bestämt tillfälle givit rådet: “Tag hem trupperna från Albanien och Abessinien och skicka dem till Brennerpasset!” Han var fullt på det klara med att Italien behövde tid för att smälta sitt nyförvärvade imperium. Dessförinnan vore all fascistisk äventyrspolitik en dödlig fara. Men Badoghio var för övrigt en direkt och oförsonlig motståndare till fascismen som sådan. Han hade bekämpat den på åtskilliga vis, och det var med bitterhet i hjärtat Mussolini måst ge honom överbefälet i Abessinien, sedan de Bono misslyckats. En av Badoglios första åtgärder hade varit att stoppa pressreklamen för svartskjortorna, speciellt greve Ciano och Bruno Mussolini, vilka deltogo i kriget med dödskalleemblem och andra pittoreska tillbehör. Badoglio var inte mannen att anbefalla ett krig mot England och Frankrike.</p>
 			<p>Och i alla fall kom kriget! Fyra år tidigare hade Mussolini genomtrumfat kriget mot Abessinien tvärtemot Stora rådets vilja – och det kriget hade dock tyckts bjuda på många och stora risker! Även denna gång fick han sin vilja fram. De engelska och franska sändebuden kallades till greve Ciano och fingo sina pass överräckta. Och samma afton talade Mussolini från Palazzo Venezias balkong till en folkmassa på hundratjugutusen människor. Han var mycket blek, hans ögon lyste som fosfor under den svarta mössan. Detta var hans stora stund! Hans röst steg till vrål och sjönk till viskningar. Massan vibrerade under hans ord som musikinstrumentet under virtuosens fingrar. Trängseln var oerhörd, kvinnor skreko och svimmade. Men de hundratjugutusen jublade, såsom massan alltid jublar, när den funnit sin domptör – och såsom den i detta land genom skicklig teaterregi vant sig att jubla i loppet av aderton år. Jag stod i hopen och skulle fått mina revben inklämda, om inte en gigantisk och godmodig schweizare skyddat mig med sina armbågar. Då och då lyfte även han händerna och ropade:</p>
-			<p class="Basic-Paragraph para-style-override-2">– Duce, a noi!</p>
+			<p>– <emph>Duce, a noi!</emph></p>
 			<p>– Är ni fascist? frågade jag honom viskande.</p>
 			<p>– Nej, viskade han med ett grin tillbaka. Man får skrika med, annars är man suspekt. Ja, man muss ein bisschen mitheulen! <emph>A noi, a noi!</emph></p>
 			<p>Kriget var förklarat.</p>
@@ -357,14 +358,18 @@
 			<p>Året 1942 hade börjat som de stora förhoppningarnas år. Det slutade som de stora besvikelsernas.</p>
 			<p>Under tiden hade situationen inom landet undergått en ganska snabb utveckling mot det sämre. Visserligen hade man infört en <emph>blocco dei prezzi</emph>, ett prisstopp, men det fungerade illa – jag skall senare berätta varför. Man hade numera kort på allt, ransonerna hade sänkts i ett flertal fall, och tillförseln av varor började svikta. Tilldelningen av bröd och makaroni, dessa de två viktiga ingredienser i Italiens kost, var nere i hundrafemtio och sjuttiofem gram om dagen respektive för vanligt folk. Tungt arbetande erhöllo mera. Men då det var mycket svårt att supplera brödet med den soppa som annars utgör huvudingrediensen av italienarens kost – ty grönsakerna blevo dag för dag allt svåråtkomligare – förstår man under vilka förhållanden det stora arbetande italienska folket levde och utförde sin dagliga gärning. Trots det vore det felaktigt att säga, att man märkte några tecken till svält. Det allmänna intrycket av folks utseende var tvärtom förbluffande gott. Kanske berodde det på en sak: den svarta börsen hade i loppet av detta år satts i system på ett nästan förbluffande sätt – och pengar fanns det gott om litet varstans. Tjänstvilliga kvinnor vandrade runt i husen och plockade ur sitt väsens svällande djup fram ägg, korv och andra saker, som visserligen funnos på ransoneringskorten, men sällan eller aldrig i butikerna. Men inte blott kvinnor av folket ägnade sig åt denna trafik. I mitt hus till exempel sköttes den svarta börsen av en herre i likaledes svart skjorta, runt vilken alla andra affärsmän gjorde en lång omväg, rädda att anklagas för illojal konkurrens. En dunkel trafik? Tvivelsutan. Men den sparade tid, nerver och pengar, ty att tillbringa flera timmar i kö var dag är ett av de dystraste företag som finns, och de priser förmedlarna begärde kunde inte egentligen sägas vara överdrivna, med tanke på lirans katastrofala fall. I Sverige hade man under första världskriget ett bon mot: “pengar, det är väl det enda en fattig fan har nuförtiden!” Det började i högsta grad kunna tillämpas på Italien.</p>
 			<p>Vi stå nu vid ingången till det år som skulle bli fascismens <emph>magnus annus climactericus</emph>, till det ödesdigra året 1943. Men innan jag beskriver vad som hände då, är det lämpligt att kasta en blick på vissa speciella delar av italienskt liv i den tidsålder som långsamt men obevekligt närmade sig sitt slut, Mussolinis imperatoriska era. Redan började hotfulla knakningar i statsskeppets skrov antyda att inte allt stod väl till. Redan gnisslade det då och då i maskinerna. Men ännu lydde skeppet roder, ännu vajade fanan i stormen. Skulle skeppet vägra att hålla kursen? Skulle fanan behöva firas? Det var frågor som man vid början av år 1943 absolut var böjd att besvara nekande. Men om det fascistiska skeppets kapten hade studerat engelsk poesi lika väl som han studerat Napoleons liv – skulle han kunnat erinra sig ett par rader ur Kiplings <emph>Vaggvisa på St. Helena</emph>:</p>
-			<p class="Brev">“How far is St. Helena from the fields of Austerlitz?</p>
-			<p class="Brev">A far way, a far way, with ten years more to run!</p>
-			<p class="Brev">Rut not so far for gentlemen who are living by their wits..”</p>
+			<lg>
+				<l>“How far is St. Helena from the fields of Austerlitz?</l>
+				<l>A far way, a far way, with ten years more to run!</l>
+				<l>Rut not so far for gentlemen who are living by their wits..”</l>
+			</lg>
 			<p>Och, litet längre framme:</p>
-			<p class="Brev">“How far is St. Helena from the field of Waterloo?</p>
-			<p class="Brev">A near way, a clear way, the ship will take you soon!</p>
-			<p class="Brev">A pleasant place for gentlemen with little left to do!</p>
-			<p class="Brev">Morning never tries you till the afternoon.”</p>
+			<lg>
+				<l>“How far is St. Helena from the field of Waterloo?</l>
+				<l>A near way, a clear way, the ship will take you soon!</l>
+				<l>A pleasant place for gentlemen with little left to do!</l>
+				<l>Morning never tries you till the afternoon.”</l>
+			</lg>
 			<p>Men det är napoleonidernas tragedi, att de aldrig lära av varandra.</p>
 			</div>
 			<div n="13" type="chapter">
