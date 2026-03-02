@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "tei_lite.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,7 +13,7 @@
       </editionStmt>
 
       <publicationStmt>
-       <p>Public Domain</p>
+        <authority>Public Domain</authority>
         <idno>46g</idno>
       </publicationStmt>
 

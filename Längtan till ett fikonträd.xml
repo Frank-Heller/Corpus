@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "tei_lite.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,7 +13,7 @@
       </editionStmt>
 
       <publicationStmt>
-        <p>Pubic domain</p>
+        <authority>Public Domain</authority>
         <idno>589</idno>
       </publicationStmt>
 
@@ -134,7 +134,7 @@
       fullkomligt likna små jordgubbar, och som även äro ätliga. Här och där
       passera vi någon nyodling, där en svartmuskig man håller på att bygga
       upp de terrasser, utan vilka intet lantbruk låter sig tänkas i Södern.
-      <corr sic="Et">Ett</corr> par terrasser med vinrankor vittna om, att han
+      <corr>Ett</corr> par terrasser med vinrankor vittna om, att han
       redan har sörjt för det viktigaste.</p>
 
       <pb n="37" />
