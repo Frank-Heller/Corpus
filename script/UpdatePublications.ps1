@@ -19,14 +19,16 @@ Get-ChildItem ../*.xml -exclude Publications.xml |
 
 		[XML]$teiFile = Get-Content $_ -encoding utf8		
 
-		# select the title and import it into Publications.xml
-		$teiFile | Select-xml -xpath "/TEI/teiHeader/fileDesc/titleStmt/title" |
-				Select-Object -expandproperty "node" |
-				ForEach-Object { $pub.AppendChild($outxml.ImportNode($_, $true)) | Out-Null }
-		# select the idno and import it into Publications.xml
-		$teiFile | Select-xml -xpath "/TEI/teiHeader/fileDesc/publicationStmt/idno" |
-				Select-Object -expandproperty "node" |
-				ForEach-Object {  $pub.AppendChild($outxml.ImportNode($_, $true)) | Out-Null }
+		# create the title and append to Publications.xml
+		$titleElement = $outxml.CreateElement("title");
+		$titleElement.InnerText = $teiFile.TEI.teiHeader.fileDesc.titleStmt.title;
+		$pub.AppendChild($titleElement) | Out-Null;
+
+		# create the idno and append to Publications.xml
+		$idnoElement = $outxml.CreateElement("idno");
+		$idnoElement.InnerText = $teiFile.TEI.teiHeader.fileDesc.publicationStmt.idno;
+		$pub.AppendChild($idnoElement) | Out-Null;
+		# 
 		
 		# get the relative filename
 		$teiFileName = Resolve-path -path $_.FullName -Relative

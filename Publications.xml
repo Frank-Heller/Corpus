@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- 
-This file was generated 12/21/2020 14:18:19 by a script.
+This file was generated 03/02/2026 20:56:12 by a script.
 Do not change this file.
  -->
 <publications>
@@ -8,6 +8,11 @@ Do not change this file.
     <title>Den hemlighetsfulla ön</title>
     <idno>548</idno>
     <filename>Den hemlighetsfulla ön.xml</filename>
+  </publication>
+  <publication>
+    <title>Gladiatorernas uttågsmarsch</title>
+    <idno>86</idno>
+    <filename>Gladiatorernas uttågsmarsch.xml</filename>
   </publication>
   <publication>
     <title>Herr Pimpls näsa</title>
