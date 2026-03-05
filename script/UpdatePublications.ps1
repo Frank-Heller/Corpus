@@ -20,6 +20,7 @@ Get-ChildItem ../*.xml -exclude Publications.xml |
 		[XML]$teiFile = Get-Content $_ -encoding utf8		
 
 		# create the title and append to Publications.xml
+		# todo: Select-Xml -xml $teiFile -XPath "/*[local-name()='TEI']/*[local-name()='teiHeader']"
 		$titleElement = $outxml.CreateElement("title");
 		$titleElement.InnerText = $teiFile.TEI.teiHeader.fileDesc.titleStmt.title;
 		$pub.AppendChild($titleElement) | Out-Null;
